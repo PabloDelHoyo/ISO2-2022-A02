@@ -1,6 +1,7 @@
-package org.teamA02.iso.server;
+package org.teamA02.iso.server.daos;
 
 import org.teamA02.iso.domain.Bussiness;
+import org.teamA02.iso.server.DAO;
 
 public class BussinessDAO implements DAO<Bussiness>{
 
