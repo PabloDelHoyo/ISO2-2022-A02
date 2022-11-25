@@ -1,4 +1,4 @@
-package ISO2.2022.A02;
+package org.teamA02.iso;
 
 import static org.junit.Assert.assertTrue;
 
