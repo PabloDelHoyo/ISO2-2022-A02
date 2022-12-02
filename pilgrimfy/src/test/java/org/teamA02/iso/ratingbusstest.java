@@ -4,22 +4,22 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-public class AppTest {
-
+public class ratingbusstest {
+	
 	@Test
-	public void testAppWorkAsExcpected() {
-		boolean labProjectWorksAsExpected = true;
-		assertTrue(labProjectWorksAsExpected);
+	public void ratingbusstestExcpected() {
+		boolean ratingbusstestWorksAsExpected = true;
+		assertTrue(ratingbusstestWorksAsExpected);
 	}
 
 	@Test
-	public void firstTestCaseForUC2() {
+	public void firstTestCaseForRB() {
 		boolean isCorrect = true;
 		assertTrue(isCorrect);
 	}
 
 	@Test
-	public void anotherTestForUC2() {
+	public void anotherTestForRB() {
 		boolean doesItReallyWork = true;
 		assertTrue(doesItReallyWork);
 	}
