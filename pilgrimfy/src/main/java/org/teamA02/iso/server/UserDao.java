@@ -1,5 +1,7 @@
 package org.teamA02.iso.server;
+
 import org.teamA02.iso.domain.User;
+
 public class UserDao implements DAO<User>{
 	@Override
 	public User read(String id) {
