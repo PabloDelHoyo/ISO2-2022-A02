@@ -6,7 +6,11 @@
 
   <groupId>org.teamA02.iso</groupId>
   <artifactId>pilgrimfy</artifactId>
+<<<<<<< HEAD
+  <version>0.5.0-SNAPSHOT</version>
+=======
   <version>0.6.0-SNAPSHOT</version>
+>>>>>>> ca707c117a40ffe2c910da498222de21e4b39a3e
 
   <name>pilgrimfy</name>
   <!-- FIXME change it to the project's website -->
